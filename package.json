@@ -2,6 +2,7 @@
   "name": "lg-wk21-todolist",
   "version": "0.0.0",
   "private": false,
+  "description": "lg project",
   "scripts": {
     "start": "node ./bin/www"
   },
@@ -14,5 +15,24 @@
     "pug": "~2.0.0-beta6",
     "serve-favicon": "~2.3.0",
     "stylus": "0.54.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilvina/todolist.git"
+  },
+  "keywords": [
+    "learners",
+    "guild",
+    "lg"
+  ],
+  "author": "",
+  "contributors": [
+    "TJ Walker <tjfwalker+npm@gmail.com>",
+    "Davina Taylor <davinaleo2007@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lilvina/todolist/issues"
+  },
+  "homepage": "https://github.com/lilvina/todolist#readme"
 }
