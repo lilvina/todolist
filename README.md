@@ -1,12 +1,9 @@
 # todolist
 
-Complete a to do list app deployed to heroku.
+Complete a to do list app as a backend microservice that provides the user with
+JSON http responces.
 
-## Context
-
-Create a full stack to do list web app.
-
-Goals
+### Goals
 
 - Learn how front end and back end connect.
 - Learn how to dissect a new problem/challenge.
